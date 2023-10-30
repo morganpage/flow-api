@@ -1,0 +1,6 @@
+### Get NFTs under one account
+GET http://localhost:3000/api/nft/id?address=0xc5857663ca37efbf&collectionIdentifier=HeroesOfTheFlow
+
+### Get NFTs under one account
+GET http://localhost:3000/api/nft/single?address=0xc5857663ca37efbf&id=2695&collectionIdentifier=HeroesOfTheFlow
+
